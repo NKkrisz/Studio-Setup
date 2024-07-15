@@ -12,7 +12,8 @@ My photography/recording gear and everything related to it!
 
 ## Other Accessories:
 - HDMI Capture Card
-- Ugreen 3 meter long HDMI and 3.5mm jack cables
+- Ugreen 3 meter long HDMI cables
+- 3.5mm jack extension cable
 
 ## Recording Software:
 - [OBS - Open Broadcaster Software](https://obsproject.com/)
