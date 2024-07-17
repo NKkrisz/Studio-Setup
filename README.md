@@ -1,5 +1,6 @@
 # Studio-Setup
-My photography/recording gear and everything related to it!
+My photography/recording gear and everything related to it!  
+Here is my Youtube channel where I use it: [@NKkriszYT](https://www.youtube.com/@NKkriszYT)
 
 ## Camera: Canon EOS 650D
 - Magic Lantern + Crop Mood firmware/software mod for more capabilities
@@ -12,8 +13,11 @@ My photography/recording gear and everything related to it!
 
 ## Other Accessories:
 - HDMI Capture Card
-- Ugreen 3 meter long HDMI cables
+- Ugreen 3 meter long HDMI cables (and Mini HDMI adapter)
+  - One is connected from my PC to my TV for monitoring the camera / recording with OBS
+  - Other one is used for connecting the camera through the Mini HDMI adapter to the HDMI capture card
 - 3.5mm jack extension cable
+  - Used for extending my microphone's cable
 
 ## Recording Software:
 - [OBS - Open Broadcaster Software](https://obsproject.com/)
