@@ -18,6 +18,8 @@ Here is my Youtube channel where I use it: [@NKkriszYT](https://www.youtube.com/
   - Other one is used for connecting the camera through the Mini HDMI adapter to the HDMI capture card
 - 3.5mm jack extension cable
   - Used for extending my microphone's cable
+- Noctua NF-A4x20 PWM Fan - cool down camera for longer recording sessions
+  - Powered by USB-A extension cable & 3 pin fan to USB-A adapter
 
 ## Recording Software:
 - [OBS - Open Broadcaster Software](https://obsproject.com/)
