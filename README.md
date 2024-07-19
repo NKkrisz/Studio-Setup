@@ -7,6 +7,15 @@ Here is my Youtube channel where I use it: [@NKkriszYT](https://www.youtube.com/
   - [Crop Mood Forum Post](https://www.magiclantern.fm/forum/index.php?topic=26851)
   - [Download For Crop Mood](https://bitbucket.org/bilal_fakhouri/crop-mood-builds/downloads/)
 - Kingma USB-C Dummy Battery
+- ### Magic Lantern Settings:
+  - Enabled Modules:
+    - hdmi_out
+  - Modified Settings:
+    - Clear overlays - Always
+    - HDMI output:
+      - Output resolution - 1080i 60hz
+    - Powersave in LiveWiew:
+      - 30-minute timer - Disabled
 
 ## Microphone: Rode VideoMic Me (3.5mm Jack Version)
 - [3D printed holder to attach to camera](https://www.printables.com/model/298735-rode-videomic-me-hotshoe-coldshoe-adapter)
