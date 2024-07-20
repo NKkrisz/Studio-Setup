@@ -20,6 +20,8 @@ Here is my Youtube channel where I use it: [@NKkriszYT](https://www.youtube.com/
 ## Microphone: Rode VideoMic Me (3.5mm Jack Version)
 - [3D printed holder to attach to camera](https://www.printables.com/model/298735-rode-videomic-me-hotshoe-coldshoe-adapter)
 
+## Storage: Samsung Evo Plus 256GB MicroSD Card (With SD Adapter)
+
 ## Other Accessories:
 - HDMI Capture Card
 - Ugreen 3 meter long HDMI cables (and Mini HDMI adapter)
