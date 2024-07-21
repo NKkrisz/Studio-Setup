@@ -1,12 +1,13 @@
 # Studio-Setup
-My photography/recording gear and everything related to it!  
+My photography / recording gear and everything related to it!  
 Here is my Youtube channel where I use it: [@NKkriszYT](https://www.youtube.com/@NKkriszYT)
 
 ## Camera: Canon EOS 650D
-- Magic Lantern + Crop Mood firmware/software mod for more capabilities
+- Magic Lantern + Crop Mood firmware / software mod for more capabilities
   - [Crop Mood Forum Post](https://www.magiclantern.fm/forum/index.php?topic=26851)
   - [Download For Crop Mood](https://bitbucket.org/bilal_fakhouri/crop-mood-builds/downloads/)
 - Kingma USB-C Dummy Battery
+
 - ### Magic Lantern Settings:
   - Enabled Modules:
     - hdmi_out
@@ -16,6 +17,10 @@ Here is my Youtube channel where I use it: [@NKkriszYT](https://www.youtube.com/
       - Output resolution - 1080i 60hz
     - Powersave in LiveWiew:
       - 30-minute timer - Disabled
+
+- ### Lenses:
+  - Canon EF-S 18-135mm f/3.5-5.6 IS STM
+  - Canon EF 50mm f/1.8 STM
 
 ## Microphone: Rode VideoMic Me (3.5mm Jack Version)
 - [3D printed holder to attach to camera](https://www.printables.com/model/298735-rode-videomic-me-hotshoe-coldshoe-adapter)
