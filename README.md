@@ -24,6 +24,7 @@ Here is my Youtube channel where I use it: [@NKkriszYT](https://www.youtube.com/
 
 ## Microphone: Rode VideoMic Me (3.5mm Jack Version)
 - [3D printed holder to attach to camera](https://www.printables.com/model/298735-rode-videomic-me-hotshoe-coldshoe-adapter)
+- Cheap Windscreen / Pop Filter
 
 ## Storage: Samsung Evo Plus 256GB MicroSD Card (With SD Adapter)
 
@@ -36,6 +37,10 @@ Here is my Youtube channel where I use it: [@NKkriszYT](https://www.youtube.com/
   - Used for extending my microphone's cable
 - Noctua NF-A4x20 PWM Fan - cool down camera for longer recording sessions
   - Powered by USB-A extension cable & 3 pin fan to USB-A adapter
+- Ugreen SD and MicroSD Card To USB Adapter
+- Glass Screen Protector For Camera
+- Adjustable Camera Strap
+- Big Tripod / Stand
 
 ## Recording Software:
 - [OBS - Open Broadcaster Software](https://obsproject.com/)
