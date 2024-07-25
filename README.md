@@ -10,13 +10,13 @@ Here is my Youtube channel where I use it: [@NKkriszYT](https://www.youtube.com/
 
 - ### Magic Lantern Settings:
   - Enabled Modules:
-    - hdmi_out
-  - Modified Settings:
-    - Clear overlays - Always
-    - HDMI output:
-      - Output resolution - 1080i 60hz
-    - Powersave in LiveWiew:
-      - 30-minute timer - Disabled
+    - bench
+    - crop_rec
+    - dual_iso
+    - mlv_lite
+    - mlv_play
+    - mlv_snd
+    - sd_uhs
 
 - ### Lenses:
   - Canon EF-S 18-135mm f/3.5-5.6 IS STM
