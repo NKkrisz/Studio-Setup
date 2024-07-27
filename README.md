@@ -30,14 +30,15 @@ Here is my Youtube channel where I use it: [@NKkriszYT](https://www.youtube.com/
 
 ## Other Accessories:
 - HDMI Capture Card
-- Ugreen 3 meter long HDMI cables (and Mini HDMI adapter)
+- [Ugreen 8K HDMI 2.1 Cable (3m long)](https://eu.ugreen.com/products/ugreen-hdmi-2-1-cable?variant=40513535737939)
   - One is connected from my PC to my TV for monitoring the camera / recording with OBS
   - Other one is used for connecting the camera through the Mini HDMI adapter to the HDMI capture card
+- [Ugreen Mini HDMI to HDMI Adapter Cable](https://eu.ugreen.com/products/4k-mini-hdmi-to-hdmi-cable?variant=40402410438739)
 - 3.5mm jack extension cable
   - Used for extending my microphone's cable
-- Noctua NF-A4x20 PWM Fan - cool down camera for longer recording sessions
+- [Noctua NF-A4x20 PWM Fan](https://noctua.at/en/nf-a4x20-pwm) - cool down camera for longer recording sessions
   - Powered by USB-A extension cable & 3 pin fan to USB-A adapter
-- Ugreen SD and MicroSD Card To USB Adapter
+- [Ugreen SD And MicroSD Card Reader To USB-A Or USB-C Adapter](https://eu.ugreen.com/products/50706)
 - Glass Screen Protector For Camera
 - Adjustable Camera Strap
 - Big Tripod / Stand
