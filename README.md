@@ -1,6 +1,11 @@
 # Studio-Setup
-My photography / recording gear and everything related to it!  
+My photography / recording gear and everything related to it!
+
 Here is my Youtube channel where I use it: [@NKkriszYT](https://www.youtube.com/@NKkriszYT)
+
+My website: [nkkrisz.com](https://nkkrisz.com)
+
+Donate To Me: [Ko-Fi Page](https://ko-fi.com/nkkrisz)
 
 ## Camera: Canon EOS 650D
 - Magic Lantern + Crop Mood firmware / software mod for more capabilities
@@ -43,9 +48,15 @@ Here is my Youtube channel where I use it: [@NKkriszYT](https://www.youtube.com/
 - Adjustable Camera Strap
 - Big Tripod / Stand
 
-## Recording Software:
+## Recording And Editing Software:
 - [OBS - Open Broadcaster Software](https://obsproject.com/)
+- [Audacity](https://www.audacityteam.org/)
+- [Kdenlive](https://kdenlive.org/en/)
+- [PhotoPea](https://www.photopea.com/)
+- [DarkTable](https://www.darktable.org/)
 
 ## Useful Resources / Tutorials:
 - [How to make your Rode VideoMicro sound PRO.](https://www.youtube.com/watch?v=jfB1VUMip80)
 - [The new best and cheapest capture card you can buy for streaming (OSSC fully supported)](https://www.youtube.com/watch?v=Ts_Xnh3ZJaw)
+- [How to Highlight Stuff in Your Video (Tutorial) (Kdenlive Video Editor 20.12.2, Early 2021)](https://youtu.be/LiBCssQWQEI?si=wrZVa97pSSUUv_E3)
+- [PHOTOPEA & PHOTOSHOP: Blending Text on a Wall](https://youtu.be/wkUnhDO7NQ4?si=bNS2T67dmZOfoL7m)
