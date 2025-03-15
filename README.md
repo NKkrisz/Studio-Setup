@@ -27,9 +27,12 @@ Donate To Me: [Ko-Fi Page](https://ko-fi.com/nkkrisz)
   - Canon EF-S 18-135mm f/3.5-5.6 IS STM
   - Canon EF 50mm f/1.8 STM
 
-## Microphone: Rode VideoMic Me (3.5mm Jack Version)
-- [3D printed holder to attach to camera](https://www.printables.com/model/298735-rode-videomic-me-hotshoe-coldshoe-adapter)
-- Cheap Windscreen / Pop Filter
+## Microphones
+- [Rode VideoMic Me (3.5mm Jack Version)](https://rode.com/en/microphones/mobile/videomic-me)
+  - [3D printed holder to attach to camera](https://www.printables.com/model/298735-rode-videomic-me-hotshoe-coldshoe-adapter)
+  - Cheap Windscreen / Pop Filter
+- [Logitech Blue Yeti](https://www.logitechg.com/en-us/products/streaming-gear/yeti-premium-usb-microphone.988-000100.html) (Modded To USB-C)
+  - Windscreen / Pop Filter from old gamer microphone
 
 ## Storage: Samsung Evo Plus 256GB MicroSD Card (With SD Adapter)
 
