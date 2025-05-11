@@ -7,13 +7,15 @@ My website: [nkkrisz.com](https://nkkrisz.com)
 
 Donate To Me: [Ko-Fi Page](https://ko-fi.com/nkkrisz)
 
-## Camera: Canon EOS 650D
+## Cameras
+
+### Canon EOS 650D
 - Magic Lantern + Crop Mood firmware / software mod for more capabilities
   - [Crop Mood Forum Post](https://www.magiclantern.fm/forum/index.php?topic=26851)
   - [Download For Crop Mood](https://bitbucket.org/bilal_fakhouri/crop-mood-builds/downloads/)
 - Kingma USB-C Dummy Battery
 
-- ### Magic Lantern Settings:
+- #### Magic Lantern Settings:
   - Enabled Modules:
     - bench
     - crop_rec
@@ -23,9 +25,21 @@ Donate To Me: [Ko-Fi Page](https://ko-fi.com/nkkrisz)
     - mlv_snd
     - sd_uhs
 
-- ### Lenses:
+- #### Lenses:
   - Canon EF-S 18-135mm f/3.5-5.6 IS STM
   - Canon EF 50mm f/1.8 STM
+
+### Fujifilm X-T3
+
+- #### Accessories:
+  - Red Shutter Button
+  - Leather Bottom Cover
+  - Fujifilm EF-X8 Flash
+  - Fujifilm EC-W126S Battery Charger
+  - 1x Fujifilm NP-W126S Battery
+
+- #### Lenses:
+  - 7Artisans 25mm f/1.8 + JJC LH-46GFII Lens Hood
 
 ## Microphones
 - [Rode VideoMic Me (3.5mm Jack Version)](https://rode.com/en/microphones/mobile/videomic-me)
