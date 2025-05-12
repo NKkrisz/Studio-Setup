@@ -25,6 +25,15 @@ Donate To Me: [Ko-Fi Page](https://ko-fi.com/nkkrisz)
     - mlv_snd
     - sd_uhs
 
+- #### Accessories:
+  - AliExpress Shoulder Strap
+  - 3D Printed & Canon Lens Hoods
+  - Glass Screen Protector
+  - Canon LC-E8E Battery Charger
+  - Travor BP-550D Grip
+  - 1x Canon LP-E8 Battery
+  - 1x Fits LP-E8 Battery
+
 - #### Lenses:
   - Canon EF-S 18-135mm f/3.5-5.6 IS STM
   - Canon EF 50mm f/1.8 STM
@@ -34,6 +43,8 @@ Donate To Me: [Ko-Fi Page](https://ko-fi.com/nkkrisz)
 - #### Accessories:
   - Red Shutter Button
   - Leather Bottom Cover
+  - Glass Screen Protector
+  - Fujifilm Shoulder Strap
   - Fujifilm EF-X8 Flash
   - Fujifilm EC-W126S Battery Charger
   - 1x Fujifilm NP-W126S Battery
@@ -61,8 +72,6 @@ Donate To Me: [Ko-Fi Page](https://ko-fi.com/nkkrisz)
 - [Noctua NF-A4x20 PWM Fan](https://noctua.at/en/nf-a4x20-pwm) - cool down camera for longer recording sessions
   - Powered by USB-A extension cable & 3 pin fan to USB-A adapter
 - [Ugreen SD And MicroSD Card Reader To USB-A Or USB-C Adapter](https://eu.ugreen.com/products/50706)
-- Glass Screen Protector For Camera
-- Adjustable Camera Strap
 - Big Tripod / Stand
 
 ## Recording And Editing Software:
