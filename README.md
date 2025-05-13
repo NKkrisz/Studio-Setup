@@ -59,7 +59,9 @@ Donate To Me: [Ko-Fi Page](https://ko-fi.com/nkkrisz)
 - [Logitech Blue Yeti](https://www.logitechg.com/en-us/products/streaming-gear/yeti-premium-usb-microphone.988-000100.html) (Modded To USB-C)
   - Windscreen / Pop Filter from old gamer microphone
 
-## Storage: Samsung Evo Plus 256GB MicroSD Card (With SD Adapter)
+## Storage
+- Samsung Evo Plus 256GB MicroSD Card (With SD Adapter)
+- Kingston Canvas Select Plus 32GB MicroSD Card (With SD Adapter)
 
 ## Other Accessories:
 - HDMI Capture Card
@@ -73,6 +75,7 @@ Donate To Me: [Ko-Fi Page](https://ko-fi.com/nkkrisz)
   - Powered by USB-A extension cable & 3 pin fan to USB-A adapter
 - [Ugreen SD And MicroSD Card Reader To USB-A Or USB-C Adapter](https://eu.ugreen.com/products/50706)
 - Big Tripod / Stand
+- Sirui Swift P1 Gimbal
 
 ## Recording And Editing Software:
 - [OBS - Open Broadcaster Software](https://obsproject.com/)
