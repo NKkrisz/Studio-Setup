@@ -41,13 +41,16 @@ Donate To Me: [Ko-Fi Page](https://ko-fi.com/nkkrisz)
 ### Fujifilm X-T3
 
 - #### Accessories:
-  - Red Shutter Button
   - Leather Bottom Cover
   - Glass Screen Protector
   - Fujifilm Shoulder Strap
   - Fujifilm EF-X8 Flash
   - Fujifilm EC-W126S Battery Charger
   - 1x Fujifilm NP-W126S Battery
+  - Fusnid M42-FX Tilt Shift Adapter
+  - JJC Deluxe Soft Release Button (Black)
+  - Spares:
+    - Red Concave Soft Release Button
 
 - #### Lenses:
   - 7Artisans 25mm f/1.8 + JJC LH-46GFII Lens Hood
