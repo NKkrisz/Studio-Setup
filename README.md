@@ -49,6 +49,8 @@ Donate To Me: [Ko-Fi Page](https://ko-fi.com/nkkrisz)
   - 1x Fujifilm NP-W126S Battery
   - Fusnid M42-FX Tilt Shift Adapter
   - JJC Deluxe Soft Release Button (Black)
+  - [SmallRig Camera Cage for FUJIFILM X-T3 Camera 2228](https://www.smallrig.com/smallrig-camera-cage-for-fujifilm-x-t3-2228.html)
+  - [SmallRig Top Handle (1/4"-20 Screws) 1638C](https://www.smallrig.com/smallrig-top-handle-with-cold-shoe-1638c.html)
   - Spares:
     - Red Concave Soft Release Button
 
