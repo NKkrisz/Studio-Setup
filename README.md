@@ -41,18 +41,21 @@ Donate To Me: [Ko-Fi Page](https://ko-fi.com/nkkrisz)
 ### Fujifilm X-T3
 
 - #### Accessories:
-  - Leather Bottom Cover
-  - Glass Screen Protector
   - Fujifilm Shoulder Strap
   - Fujifilm EF-X8 Flash
   - Fujifilm EC-W126S Battery Charger
   - 1x Fujifilm NP-W126S Battery
-  - Fusnid M42-FX Tilt Shift Adapter
-  - JJC Deluxe Soft Release Button (Black)
+  - [1x Batmax Lithium ion BATTERY PACK For FUJI NP-W126/NP-W126S 7.4V 1480mAh/10.95Wh Battery](https://www.aliexpress.com/item/32974068573.html)
+  - [Fusnid M42-FX Tilt Shift Adapter Ring](https://www.aliexpress.com/item/1005007916687392.html)
+  - [JJC Deluxe Soft Release Button (Black)](https://www.aliexpress.com/item/1005008075275416.html)
+  - [Metal Hotshoe Cover (Black With X)](https://www.aliexpress.com/item/1005005752733274.html)
+  - [Tempered Glass Screen Protector](https://www.aliexpress.com/item/1005006391141315.html)
   - [SmallRig Camera Cage for FUJIFILM X-T3 Camera 2228](https://www.smallrig.com/smallrig-camera-cage-for-fujifilm-x-t3-2228.html)
   - [SmallRig Top Handle (1/4"-20 Screws) 1638C](https://www.smallrig.com/smallrig-top-handle-with-cold-shoe-1638c.html)
   - Spares:
     - Red Concave Soft Release Button
+    - Brown Pleather Bottom Cover
+    - Tempered Glass Screen Protector (Got another one from the 2 pcs I ordered)
 
 - #### Lenses:
   - 7Artisans 25mm f/1.8 + JJC LH-46GFII Lens Hood
