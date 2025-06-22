@@ -7,36 +7,7 @@ My website: [nkkrisz.com](https://nkkrisz.com)
 
 Donate To Me: [Ko-Fi Page](https://ko-fi.com/nkkrisz)
 
-## Cameras
-
-### Canon EOS 650D
-- Magic Lantern + Crop Mood firmware / software mod for more capabilities
-  - [Crop Mood Forum Post](https://www.magiclantern.fm/forum/index.php?topic=26851)
-  - [Download For Crop Mood](https://bitbucket.org/bilal_fakhouri/crop-mood-builds/downloads/)
-- Kingma USB-C Dummy Battery
-
-- #### Magic Lantern Settings:
-  - Enabled Modules:
-    - bench
-    - crop_rec
-    - dual_iso
-    - mlv_lite
-    - mlv_play
-    - mlv_snd
-    - sd_uhs
-
-- #### Accessories:
-  - AliExpress Shoulder Strap
-  - 3D Printed & Canon Lens Hoods
-  - Glass Screen Protector
-  - Canon LC-E8E Battery Charger
-  - Travor BP-550D Grip
-  - 1x Canon LP-E8 Battery
-  - 1x Fits LP-E8 Battery
-
-- #### Lenses:
-  - Canon EF-S 18-135mm f/3.5-5.6 IS STM
-  - Canon EF 50mm f/1.8 STM
+## Camera
 
 ### Fujifilm X-T3
 
@@ -59,13 +30,48 @@ Donate To Me: [Ko-Fi Page](https://ko-fi.com/nkkrisz)
 
 - #### Lenses:
   - 7Artisans 25mm f/1.8 + JJC LH-46GFII Lens Hood
+ 
+### Previous: Canon EOS 650D
+- Magic Lantern + Crop Mood firmware / software mod setup for more capabilities
+  - [Crop Mood Forum Post](https://www.magiclantern.fm/forum/index.php?topic=26851)
+  - [Download For Crop Mood](https://bitbucket.org/bilal_fakhouri/crop-mood-builds/downloads/)
 
-## Microphones
+- #### Magic Lantern Settings:
+  - Enabled Modules:
+    - bench
+    - crop_rec
+    - dual_iso
+    - mlv_lite
+    - mlv_play
+    - mlv_snd
+    - sd_uhs
+
+- #### Accessories:
+  - AliExpress Shoulder Strap
+  - 3D Printed & Canon Lens Hoods
+  - Glass Screen Protector
+  - Canon LC-E8E Battery Charger
+  - Travor BP-550D Grip
+  - 1x Canon LP-E8 Battery
+  - 1x Fits LP-E8 Battery
+  - Kingma USB-C Dummy Battery
+
+- #### Lenses:
+  - Canon EF-S 18-135mm f/3.5-5.6 IS STM
+  - Canon EF 50mm f/1.8 STM
+
+## Audio
+
+### Microphones
 - [Rode VideoMic Me (3.5mm Jack Version)](https://rode.com/en/microphones/mobile/videomic-me)
   - [3D printed holder to attach to camera](https://www.printables.com/model/298735-rode-videomic-me-hotshoe-coldshoe-adapter)
   - Cheap Windscreen / Pop Filter
 - [Logitech Blue Yeti](https://www.logitechg.com/en-us/products/streaming-gear/yeti-premium-usb-microphone.988-000100.html) (Modded To USB-C)
   - Windscreen / Pop Filter from old gamer microphone
+
+### Listening / Editing With
+- Sennheiser HD580 Precision Headphones
+- Fiio KA13 Portable USB-C DAC And Amplifier
 
 ## Storage
 - Samsung Evo Plus 256GB MicroSD Card (With SD Adapter)
