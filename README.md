@@ -9,7 +9,7 @@ Donate To Me: [Ko-Fi Page](https://ko-fi.com/nkkrisz)
 
 ## Camera
 
-### Fujifilm X-T3
+### Fujifilm X-T3:
 
 - #### Accessories:
   - Fujifilm Shoulder Strap
@@ -31,7 +31,7 @@ Donate To Me: [Ko-Fi Page](https://ko-fi.com/nkkrisz)
 - #### Lenses:
   - 7Artisans 25mm f/1.8 + JJC LH-46GFII Lens Hood
  
-### Previous: Canon EOS 650D
+### Previous - Canon EOS 650D:
 - Magic Lantern + Crop Mood firmware / software mod setup for more capabilities
   - [Crop Mood Forum Post](https://www.magiclantern.fm/forum/index.php?topic=26851)
   - [Download For Crop Mood](https://bitbucket.org/bilal_fakhouri/crop-mood-builds/downloads/)
@@ -62,22 +62,24 @@ Donate To Me: [Ko-Fi Page](https://ko-fi.com/nkkrisz)
 
 ## Audio
 
-### Microphones
+### Microphones:
 - [Rode VideoMic Me (3.5mm Jack Version)](https://rode.com/en/microphones/mobile/videomic-me)
   - [3D printed holder to attach to camera](https://www.printables.com/model/298735-rode-videomic-me-hotshoe-coldshoe-adapter)
   - Cheap Windscreen / Pop Filter
 - [Logitech Blue Yeti](https://www.logitechg.com/en-us/products/streaming-gear/yeti-premium-usb-microphone.988-000100.html) (Modded To USB-C)
   - Windscreen / Pop Filter from old gamer microphone
 
-### Listening / Editing With
+### Listening / Editing With:
 - Sennheiser HD580 Precision Headphones
 - Fiio KA13 Portable USB-C DAC And Amplifier
 
-## Storage
+## Other Hardware
+
+### Storage:
 - Samsung Evo Plus 256GB MicroSD Card (With SD Adapter)
 - Kingston Canvas Select Plus 32GB MicroSD Card (With SD Adapter)
 
-## Other Accessories:
+### Accessories:
 - HDMI Capture Card
 - [Ugreen 8K HDMI 2.1 Cable (3m long)](https://eu.ugreen.com/products/ugreen-hdmi-2-1-cable?variant=40513535737939)
   - One is connected from my PC to my TV for monitoring the camera / recording with OBS
@@ -91,9 +93,14 @@ Donate To Me: [Ko-Fi Page](https://ko-fi.com/nkkrisz)
 - Big Tripod / Stand
 - Sirui Swift P1 Gimbal
 
-## Recording And Editing Software:
+## Software
+
+### Recording:
 - [OBS - Open Broadcaster Software](https://obsproject.com/)
 - [Audacity](https://www.audacityteam.org/)
+  - [De-clicker and de-esser plugin](https://audionyq.com/de-clicker-and-de-esser/)
+
+### Editing:
 - [Kdenlive](https://kdenlive.org/en/)
 - [PhotoPea](https://www.photopea.com/)
 - [DarkTable](https://www.darktable.org/)
