@@ -1,0 +1,11 @@
+NoiseReduction:Use_Preset="<Current Settings>"
+FilterCurve:FilterLength="8191" InterpolateLin="0" InterpolationMethod="B-spline"
+FilterCurve:FilterLength="8191" InterpolateLin="0" InterpolationMethod="B-spline"
+FilterCurve:f0="50" f1="60" f2="65" f3="70" f4="80" f5="90" f6="100" FilterLength="8191" InterpolateLin="0" InterpolationMethod="B-spline" v0="-120" v1="-50" v2="-24" v3="-12" v4="-4" v5="-1" v6="0"
+Reverb:Delay="30" DryGain="0" HfDamping="30" Reverberance="10" RoomSize="5" StereoWidth="100" ToneHigh="100" ToneLow="100" WetGain="-12" WetOnly="0"
+De-clicker:control-action-choice="Apply changes" control-crackle-threshold="-45" control-crossfade-interval="5" control-frequency-bound1="150" control-frequency-bound2="9600" control-max-steps="2" control-n-bands="12" control-passes="2" control-relative-threshold="6" control-separation="3" control-step-dur-ms="5"
+De-esser:control-absolute-threshold="-20" control-action-choice="Apply changes" control-crossfade-interval="5" control-frequency-bound1="2500" control-frequency-bound2="8000" control-n-bands="10" control-step-dur-ms="10"
+Normalize:ApplyVolume="1" PeakLevel="-3" RemoveDcOffset="1" StereoIndependent="0"
+Compressor:attackMs="200" compressionRatio="4" kneeWidthDb="5" lookaheadMs="1" makeupGainDb="0" releaseMs="1000" showActual="1" showInput="0" showOutput="1" showTarget="0" thresholdDb="-18"
+TruncateSilence:Action="Truncate Detected Silence" Compress="50" Independent="0" Minimum="2" Threshold="-20" Truncate="0.5"
+Stereo to Mono:
