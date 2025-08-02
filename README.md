@@ -99,6 +99,7 @@ Donate To Me: [Ko-Fi Page](https://ko-fi.com/nkkrisz)
 - [OBS - Open Broadcaster Software](https://obsproject.com/)
 - [Audacity](https://www.audacityteam.org/)
   - [De-clicker and de-esser plugin](https://audionyq.com/de-clicker-and-de-esser/)
+  - [My voiceover macro](https://github.com/NKkrisz/Studio-Setup/blob/main/Audacity_Voiceover_Macro.txt)
 
 ### Editing:
 - [Kdenlive](https://kdenlive.org/en/)
