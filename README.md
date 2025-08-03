@@ -100,6 +100,8 @@ Donate To Me: [Ko-Fi Page](https://ko-fi.com/nkkrisz)
 - [Audacity](https://www.audacityteam.org/)
   - [De-clicker and de-esser plugin](https://audionyq.com/de-clicker-and-de-esser/)
   - [My voiceover macro](https://github.com/NKkrisz/Studio-Setup/blob/main/Audacity_Voiceover_Macro.txt)
+    - To add the macro to your Audacity go to ```Tools``` > ```Macro Manager``` > ```Import```
+    - Before applying the macro to the selected area with ```Tools``` > ```Apply Macro```, you first need to select some amount of silence and then ```Effect``` > ```Noise Removal and Repair``` > ```Noise Reduction``` > ```Get Noise Profile``` so the noise reduction works
 
 ### Editing:
 - [Kdenlive](https://kdenlive.org/en/)
