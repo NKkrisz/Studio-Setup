@@ -13,10 +13,11 @@ Donate To Me: [Ko-Fi Page](https://ko-fi.com/nkkrisz)
 
 - #### Accessories:
   - Fujifilm Shoulder Strap
-  - Fujifilm EF-X8 Flash
-  - Fujifilm EC-W126S Battery Charger
-  - 1x Fujifilm NP-W126S Battery
-  - [1x Batmax Lithium ion BATTERY PACK For FUJI NP-W126/NP-W126S 7.4V 1480mAh/10.95Wh Battery](https://www.aliexpress.com/item/32974068573.html)
+  - [Fujifilm EF-X8 Flash](https://www.fujifilm-x.com/en-us/products/accessories/ef-x8/)
+  - [Fujifilm BC-W126S Battery Charger](https://www.fujifilm-x.com/en-us/products/accessories/bc-w126s/)
+  - 1x [Fujifilm NP-W126S Battery](https://www.fujifilm-x.com/en-us/products/accessories/np-w126s/)
+  - 1x [Batmax Lithium ion BATTERY PACK For FUJI NP-W126/NP-W126S 7.4V 1480mAh/10.95Wh Battery](https://www.aliexpress.com/item/32974068573.html)
+  - 1x [Fujifilm MCEX-11 Macro Extension Tube](https://www.fujifilm-x.com/en-us/products/accessories/mcex-11/)
   - [Fusnid M42-FX Tilt Shift Adapter Ring](https://www.aliexpress.com/item/1005007916687392.html)
   - [JJC Deluxe Soft Release Button (Black)](https://www.aliexpress.com/item/1005008075275416.html)
   - [Metal Hotshoe Cover (Black With X)](https://www.aliexpress.com/item/1005005752733274.html)
