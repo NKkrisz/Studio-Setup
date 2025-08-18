@@ -11,55 +11,60 @@ Donate To Me: [Ko-Fi Page](https://ko-fi.com/nkkrisz)
 
 ### Fujifilm X-T3:
 
-- #### Accessories:
-  - Fujifilm Shoulder Strap
-  - [Fujifilm EF-X8 Flash](https://www.fujifilm-x.com/en-us/products/accessories/ef-x8/)
-  - [Fujifilm BC-W126S Battery Charger](https://www.fujifilm-x.com/en-us/products/accessories/bc-w126s/)
-  - 1x [Fujifilm NP-W126S Battery](https://www.fujifilm-x.com/en-us/products/accessories/np-w126s/)
-  - 1x [Batmax Lithium ion BATTERY PACK For FUJI NP-W126/NP-W126S 7.4V 1480mAh/10.95Wh Battery](https://www.aliexpress.com/item/32974068573.html)
-  - 1x [Fujifilm MCEX-11 Macro Extension Tube](https://www.fujifilm-x.com/en-us/products/accessories/mcex-11/)
-  - [Fusnid M42-FX Tilt Shift Adapter Ring](https://www.aliexpress.com/item/1005007916687392.html)
-  - [JJC Deluxe Soft Release Button (Black)](https://www.aliexpress.com/item/1005008075275416.html)
-  - [Metal Hotshoe Cover (Black With X)](https://www.aliexpress.com/item/1005005752733274.html)
-  - [Tempered Glass Screen Protector](https://www.aliexpress.com/item/1005006391141315.html)
-  - [SmallRig Camera Cage for FUJIFILM X-T3 Camera 2228](https://www.smallrig.com/smallrig-camera-cage-for-fujifilm-x-t3-2228.html)
-  - [SmallRig Top Handle (1/4"-20 Screws) 1638C](https://www.smallrig.com/smallrig-top-handle-with-cold-shoe-1638c.html)
-  - Spares:
-    - Red Concave Soft Release Button
-    - Brown Pleather Bottom Cover
-    - Tempered Glass Screen Protector (Got another one from the 2 pcs I ordered)
+#### Accessories:
+- Fujifilm Shoulder Strap
+- [Fujifilm EF-X8 Flash](https://www.fujifilm-x.com/en-us/products/accessories/ef-x8/)
+- [Fujifilm BC-W126S Battery Charger](https://www.fujifilm-x.com/en-us/products/accessories/bc-w126s/)
+- 1x [Fujifilm NP-W126S Battery](https://www.fujifilm-x.com/en-us/products/accessories/np-w126s/)
+- 1x [Batmax Lithium ion BATTERY PACK For FUJI NP-W126/NP-W126S 7.4V 1480mAh/10.95Wh Battery](https://www.aliexpress.com/item/32974068573.html)
+- 1x [Fujifilm MCEX-11 Macro Extension Tube](https://www.fujifilm-x.com/en-us/products/accessories/mcex-11/)
+- [Fusnid M42-FX Tilt Shift Adapter Ring](https://www.aliexpress.com/item/1005007916687392.html)
+- [JJC Deluxe Soft Release Button (Black)](https://www.aliexpress.com/item/1005008075275416.html)
+- [Metal Hotshoe Cover (Black With X)](https://www.aliexpress.com/item/1005005752733274.html)
+- [Tempered Glass Screen Protector](https://www.aliexpress.com/item/1005006391141315.html)
+- [SmallRig Camera Cage for FUJIFILM X-T3 Camera 2228](https://www.smallrig.com/smallrig-camera-cage-for-fujifilm-x-t3-2228.html)
+- [SmallRig Top Handle (1/4"-20 Screws) 1638C](https://www.smallrig.com/smallrig-top-handle-with-cold-shoe-1638c.html)
+- Spares:
+  - Red Concave Soft Release Button
+  - Brown Pleather Bottom Cover
+  - Tempered Glass Screen Protector (Got another one from the 2 pcs I ordered)
 
-- #### Lenses:
-  - 7Artisans 25mm f/1.8 + JJC LH-46GFII Lens Hood
+#### Lenses:
+- 7Artisans 25mm f/1.8 + JJC LH-46GFII Lens Hood
  
 ### Previous - Canon EOS 650D:
 - Magic Lantern + Crop Mood firmware / software mod setup for more capabilities
   - [Crop Mood Forum Post](https://www.magiclantern.fm/forum/index.php?topic=26851)
   - [Download For Crop Mood](https://bitbucket.org/bilal_fakhouri/crop-mood-builds/downloads/)
 
-- #### Magic Lantern Settings:
-  - Enabled Modules:
-    - bench
-    - crop_rec
-    - dual_iso
-    - mlv_lite
-    - mlv_play
-    - mlv_snd
-    - sd_uhs
+#### Magic Lantern Settings:
+- Enabled Modules:
+  - bench
+  - crop_rec
+  - dual_iso
+  - mlv_lite
+  - mlv_play
+  - mlv_snd
+  - sd_uhs
 
-- #### Accessories:
-  - AliExpress Shoulder Strap
-  - 3D Printed & Canon Lens Hoods
-  - Glass Screen Protector
-  - Canon LC-E8E Battery Charger
-  - Travor BP-550D Grip
-  - 1x Canon LP-E8 Battery
-  - 1x Fits LP-E8 Battery
-  - Kingma USB-C Dummy Battery
+#### Accessories:
+- AliExpress Shoulder Strap
+- 3D Printed & Canon Lens Hoods
+- Glass Screen Protector
+- Canon LC-E8E Battery Charger
+- Travor BP-550D Grip
+- 1x Canon LP-E8 Battery
+- 1x Fits LP-E8 Battery
+- Kingma USB-C Dummy Battery
 
-- #### Lenses:
-  - Canon EF-S 18-135mm f/3.5-5.6 IS STM
-  - Canon EF 50mm f/1.8 STM
+#### Lenses:
+- Canon EF-S 18-135mm f/3.5-5.6 IS STM
+- Canon EF 50mm f/1.8 STM
+
+### Other Lenses:
+  - Helios 44-2 58mm f/2
+  - Pentacon 135mm f/2.8
+  - Exakta 70-210mm
 
 ## Audio
 
@@ -73,6 +78,9 @@ Donate To Me: [Ko-Fi Page](https://ko-fi.com/nkkrisz)
 ### Listening / Editing With:
 - Sennheiser HD580 Precision Headphones
 - Fiio KA13 Portable USB-C DAC And Amplifier
+
+## Lighting
+- To be purchased, currently borrowing
 
 ## Other Hardware
 
