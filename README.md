@@ -79,9 +79,6 @@ Donate To Me: [Ko-Fi Page](https://ko-fi.com/nkkrisz)
 - Sennheiser HD580 Precision Headphones
 - Fiio KA13 Portable USB-C DAC And Amplifier
 
-## Lighting
-- To be purchased, currently borrowing
-
 ## Other Hardware
 
 ### Storage:
@@ -122,3 +119,23 @@ Donate To Me: [Ko-Fi Page](https://ko-fi.com/nkkrisz)
 - [The new best and cheapest capture card you can buy for streaming (OSSC fully supported)](https://www.youtube.com/watch?v=Ts_Xnh3ZJaw)
 - [How to Highlight Stuff in Your Video (Tutorial) (Kdenlive Video Editor 20.12.2, Early 2021)](https://youtu.be/LiBCssQWQEI?si=wrZVa97pSSUUv_E3)
 - [PHOTOPEA & PHOTOSHOP: Blending Text on a Wall](https://youtu.be/wkUnhDO7NQ4?si=bNS2T67dmZOfoL7m)
+
+## To Purchase / Want To Try / Wishlist
+- Lighting
+- Background
+- Canon EF/EF-S to Fuji X autofocus adapter (preferably with aperture adjustment)
+- Better tripod
+- Rope strap
+- Camera bag
+- Lenses
+  - Fast 35mm or 50mm
+  - Anamorphic
+  - Macro
+  - Cinema
+- Cameras
+  - 35mm or medium format film
+  - Fujifilm X100 series
+  - Fujifilm GFX series
+  - Fujifilm TX / Hasselblad XPan
+  - Hasselblad X / V System
+  - Leica M / Q series
