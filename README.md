@@ -58,8 +58,10 @@ Donate To Me: [Ko-Fi Page](https://ko-fi.com/nkkrisz)
 - Kingma USB-C Dummy Battery
 
 #### Lenses:
-- Canon EF-S 18-135mm f/3.5-5.6 IS STM
+- Canon EF-S 10-18mm f/4.5-5.6 IS STM
+- Canon EF-S 18-55mm f/3.5-5.6 IS II
 - Canon EF 50mm f/1.8 STM
+- Canon EF 70-200mm f/4.0L USM
 
 ### Other Lenses:
   - Helios 44-2 58mm f/2
@@ -97,7 +99,6 @@ Donate To Me: [Ko-Fi Page](https://ko-fi.com/nkkrisz)
   - Powered by USB-A extension cable & 3 pin fan to USB-A adapter
 - [Ugreen SD And MicroSD Card Reader To USB-A Or USB-C Adapter](https://eu.ugreen.com/products/50706)
 - Big Tripod / Stand
-- Sirui Swift P1 Gimbal
 
 ## Software
 
@@ -126,7 +127,6 @@ Donate To Me: [Ko-Fi Page](https://ko-fi.com/nkkrisz)
 - Canon EF/EF-S to Fuji X autofocus adapter (preferably with aperture adjustment)
 - Better tripod
 - Rope strap
-- Camera bag
 - Lenses
   - Fast 35mm or 50mm
   - Anamorphic
