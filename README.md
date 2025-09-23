@@ -112,7 +112,7 @@ Donate To Me: [Ko-Fi Page](https://ko-fi.com/nkkrisz)
 
 ### Editing:
 - [Kdenlive](https://kdenlive.org/en/)
-- [PhotoPea](https://www.photopea.com/)
+- [GIMP](https://www.gimp.org/)
 - [DarkTable](https://www.darktable.org/)
 
 ## Useful Resources / Tutorials:
