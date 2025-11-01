@@ -19,6 +19,7 @@ Donate To Me: [Ko-Fi Page](https://ko-fi.com/nkkrisz)
 - 1x [Batmax Lithium ion BATTERY PACK For FUJI NP-W126/NP-W126S 7.4V 1480mAh/10.95Wh Battery](https://www.aliexpress.com/item/32974068573.html)
 - 1x [Fujifilm MCEX-11 Macro Extension Tube](https://www.fujifilm-x.com/en-us/products/accessories/mcex-11/)
 - [Fusnid M42-FX Tilt Shift Adapter Ring](https://www.aliexpress.com/item/1005007916687392.html)
+- [3D Printed Contax/Yashica To Fujifilm X Adapter](https://www.thingiverse.com/thing:6064379)
 - [JJC Deluxe Soft Release Button (Black)](https://www.aliexpress.com/item/1005008075275416.html)
 - [Metal Hotshoe Cover (Black With X)](https://www.aliexpress.com/item/1005005752733274.html)
 - [Tempered Glass Screen Protector](https://www.aliexpress.com/item/1005006391141315.html)
@@ -64,7 +65,7 @@ Donate To Me: [Ko-Fi Page](https://ko-fi.com/nkkrisz)
 - Canon EF 70-200mm f/4.0L USM
 
 ### Other Lenses:
-  - Carl Zeiss Planar T* 50mm f1.7 (Contax/Yashica Mount, Has Minimal Fungus And "String" Near Aperture)
+  - Carl Zeiss Planar T* 50mm f/1.7 (Contax/Yashica Mount, Has Minimal Fungus And "String" Near Aperture)
   - Helios 44-2 58mm f/2
   - Pentacon 135mm f/2.8
   - Exakta 70-210mm
