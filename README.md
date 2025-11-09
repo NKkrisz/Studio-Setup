@@ -67,8 +67,9 @@ Donate To Me: [Ko-Fi Page](https://ko-fi.com/nkkrisz)
 ### Other Lenses:
   - Carl Zeiss Planar T* 50mm f/1.7 (Contax/Yashica Mount, Has Minimal Fungus And "String" Near Aperture)
   - Helios 44-2 58mm f/2
-  - Pentacon 135mm f/2.8
-  - Exakta 70-210mm
+  - Pentacon Electric 135mm f/2.8
+  - Pentacon MC Auto 29mm f/2.8
+  - Exakta MC Macro 70-210mm f/4.5-5.6
 
 ## Audio
 
