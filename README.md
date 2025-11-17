@@ -33,8 +33,8 @@ Donate To Me: [Ko-Fi Page](https://ko-fi.com/nkkrisz)
 #### Lenses:
 - 7Artisans 25mm f/1.8 + JJC LH-46GFII Lens Hood
  
-### Previous - Canon EOS 650D:
-- Magic Lantern + Crop Mood firmware / software mod setup for more capabilities
+### Second Body - Canon EOS 650D:
+- **Previously modified (currently stock)** with Magic Lantern + Crop Mood firmware / software mod setup for more capabilities
   - [Crop Mood Forum Post](https://www.magiclantern.fm/forum/index.php?topic=26851)
   - [Download For Crop Mood](https://bitbucket.org/bilal_fakhouri/crop-mood-builds/downloads/)
 
@@ -57,6 +57,7 @@ Donate To Me: [Ko-Fi Page](https://ko-fi.com/nkkrisz)
 - 1x Canon LP-E8 Battery
 - 1x Fits LP-E8 Battery
 - Kingma USB-C Dummy Battery
+- M42 To Canon EF Adapter
 
 #### Lenses:
 - Canon EF-S 10-18mm f/4.5-5.6 IS STM
