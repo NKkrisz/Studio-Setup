@@ -31,7 +31,8 @@ Donate To Me: [Ko-Fi Page](https://ko-fi.com/nkkrisz)
   - Tempered Glass Screen Protector (Got another one from the 2 pcs I ordered)
 
 #### Lenses:
-- 7Artisans 25mm f/1.8 + JJC LH-46GFII Lens Hood
+- [Viltrox 23mm f/1.4](https://viltrox.com/products/viltrox-23mm-f14-xf-mount)
+- [7Artisans 25mm f/1.8](https://7artisans.store/products/25mm-f1-8?variant=40640824901840) + [JJC LH-46GFII Lens Hood](https://jjc.cc/index/goods/detail.html?id=1039)
  
 ### Second Body - Canon EOS 650D:
 - **Previously modified (currently stock)** with Magic Lantern + Crop Mood firmware / software mod setup for more capabilities
