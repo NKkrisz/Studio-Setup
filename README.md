@@ -61,10 +61,10 @@ Donate To Me: [Ko-Fi Page](https://ko-fi.com/nkkrisz)
 - M42 To Canon EF Adapter
 
 #### Lenses:
-- Canon EF-S 10-18mm f/4.5-5.6 IS STM
-- Canon EF-S 18-55mm f/3.5-5.6 IS II
-- Canon EF 50mm f/1.8 STM
-- Canon EF 70-200mm f/4.0L USM
+- [Canon EF-S 10-18mm f/4.5-5.6 IS STM](https://www.usa.canon.com/shop/p/ef-s-10-18mm-f-4-5-5-6-is-stm)
+- [Canon EF-S 18-55mm f/3.5-5.6 IS II](https://www.usa.canon.com/shop/p/ef-s-18-55mm-f-3-5-5-6-is-ii)
+- [Canon EF 50mm f/1.8 STM](https://www.usa.canon.com/shop/p/ef-50mm-f-1-8-stm)
+- [Canon EF 70-200mm f/4L USM](https://support.usa.canon.com/kb/s/article/ART159042)
 
 ### Other Lenses:
   - Carl Zeiss Planar T* 50mm f/1.7 (Contax/Yashica Mount, Has Minimal Fungus And "String" Near Aperture)
