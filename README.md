@@ -67,7 +67,8 @@ Donate To Me: [Ko-Fi Page](https://ko-fi.com/nkkrisz)
 - [Canon EF 70-200mm f/4L USM](https://support.usa.canon.com/kb/s/article/ART159042)
 
 ### Other Lenses:
-  - Carl Zeiss Planar T* 50mm f/1.7 (Contax/Yashica Mount, Has Minimal Fungus And "String" Near Aperture)
+  - Carl Zeiss Planar T* 50mm f/1.7 (Contax/Yashica Mount, Has Minimal Fungus And "String" Near Aperture Blades)
+    - Panorama Auto Tele Converter 2x (Contax/Yashica Mount)
   - Helios 44-2 58mm f/2
   - Pentacon Electric 135mm f/2.8
   - Pentacon MC Auto 29mm f/2.8
